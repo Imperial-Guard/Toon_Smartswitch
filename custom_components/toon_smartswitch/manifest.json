@@ -1,0 +1,8 @@
+{
+  "domain": "toon_smartswitch",
+  "name": "TOON Smart Switch",
+  "documentation": "https://github.com/Imperial-Guard/Toon_Smartswitch",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": []
+}
