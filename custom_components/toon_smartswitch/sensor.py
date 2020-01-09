@@ -33,7 +33,7 @@ MIN_TIME_BETWEEN_UPDATES = timedelta(seconds=10)
 SENSOR_PREFIX = 'Toon '
 
 SENSOR_TYPES = {
-    'elecusageflowfib': ['Fibaro Plug Power', 'Watt', 'mdi:flash'],
+    'elecusageflowfib': ['Fibaro Plug Power', 'W', 'mdi:flash'],
     'elecusagecntfib': ['Fibaro Power Use Cnt', 'kWh', 'mdi:flash'],
 }
 
